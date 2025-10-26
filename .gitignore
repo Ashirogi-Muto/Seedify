@@ -125,3 +125,6 @@ Thumbs.db
 .settings/
 .vs/
 .vscode/
+
+# PDF files
+*.pdf
