@@ -2,6 +2,11 @@
 
 This is a smart mobile application designed to reduce the shift from oilseeds to other crops by making oilseed farming more attractive and profitable for Indian farmers. The app leverages predictive analytics and market intelligence to enable informed decision-making through real-time data, government support integration, and assured procurement linkages.
 
+## Live Demo
+
+You can view the live demo of the application at: https://seedify-git-main-idkanythinghelps-projects.vercel.app/
+
+
 ## Features
 
 - **Comparative Crop Economics**: Interactive dashboards showing cost-benefit analysis of oilseeds vs alternative crops
@@ -98,7 +103,6 @@ src/
 1. Build the project: `npm run build`
 2. Deploy the contents of the `build` directory to your preferred hosting platform
 3. The app is optimized for static hosting platforms like Netlify, Vercel, or GitHub Pages
-
 
 ## Demo Instructions
 
