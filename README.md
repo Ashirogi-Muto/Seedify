@@ -126,7 +126,7 @@ src/
 ## Documentation
 
 - [Demo Guide](./src/DEMO_GUIDE.md) - Detailed walkthrough of all features
-- [Attributions](./src/Attributions.md) - Source attributions for components and images
+
 
 ## License
 
